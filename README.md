@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Taylor
+- 👀 I’m interested in things that go fast.
+- 🌱 I’m currently learning iOS Development.
+- 📫 taylorstroop1@gmail.com
